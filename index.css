@@ -54,7 +54,7 @@ body
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(../assets/pictures/logos/search.png);
+    background-image: url(./assets/pictures/logos/search.png);
 }
 .logo
 {
@@ -63,7 +63,7 @@ body
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(../assets/pictures/logos/youtube.png);
+    background-image: url(./assets/pictures/logos/youtube.png);
 }
 
 .menu_logo
@@ -97,7 +97,7 @@ body
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(../assets/pictures/logos/mic.png);
+    background-image: url(./assets/pictures/logos/mic.png);
 }
 .middlediv
 {
@@ -113,7 +113,7 @@ body
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(../assets/pictures/logos/notif.png);
+    background-image: url(./assets/pictures/logos/notif.png);
 }
 .divright
 {
@@ -172,39 +172,39 @@ hr
 
 .one
 {
-    background-image: url(../assets/pictures/vids/pic1.jpeg);
+    background-image: url(./assets/pictures/vids/pic1.jpeg);
 }
 .two
 {
-    background-image: url(../assets/pictures/vids/pic2.jpeg);
+    background-image: url(./assets/pictures/vids/pic2.jpeg);
 }
 .three
 {
-    background-image: url(../assets/pictures/vids/pic3.jpeg);
+    background-image: url(./assets/pictures/vids/pic3.jpeg);
 }
 .four
 {
-    background-image: url(../assets/pictures/vids/pic4.jpeg);
+    background-image: url(./assets/pictures/vids/pic4.jpeg);
 }
 .five
 {
-    background-image: url(../assets/pictures/vids/pic6.jpeg);
+    background-image: url(./assets/pictures/vids/pic6.jpeg);
 }
 .six
 {
-    background-image: url(../assets/pictures/vids/pic6.jpeg);
+    background-image: url(./assets/pictures/vids/pic6.jpeg);
 }
 .seven
 {
-    background-image: url(../assets/pictures/vids/pic7.jpeg);
+    background-image: url(./assets/pictures/vids/pic7.jpeg);
 }
 .eight
 {
-    background-image: url(../assets/pictures/vids/pic8.jpeg);
+    background-image: url(./assets/pictures/vids/pic8.jpeg);
 }
 .nine
 {
-    background-image: url(../assets/pictures/vids/pic9.jpeg);
+    background-image: url(./assets/pictures/vids/pic9.jpeg);
 }
 
 .title_and_pic
@@ -216,39 +216,39 @@ hr
 
 .onec
 {
-    background-image: url(../assets/pictures/people/pers1.jpeg);
+    background-image: url(./assets/pictures/people/pers1.jpeg);
 }
 .twoc
 {
-    background-image: url(../assets/pictures/people/pers2.jpeg);
+    background-image: url(./assets/pictures/people/pers2.jpeg);
 }
 .threec
 {
-    background-image: url(../assets/pictures/people/pers3.jpeg);
+    background-image: url(./assets/pictures/people/pers3.jpeg);
 }
 .fourc
 {
-    background-image: url(../assets/pictures/people/pers4.jpeg);
+    background-image: url(./assets/pictures/people/pers4.jpeg);
 }
 .fivec
 {
-    background-image: url(../assets/pictures/people/pers5.jpeg);
+    background-image: url(./assets/pictures/people/pers5.jpeg);
 }
 .sixc
 {
-    background-image: url(../assets/pictures/people/pers6.jpeg);
+    background-image: url(./assets/pictures/people/pers6.jpeg);
 }
 .sevenc
 {
-    background-image: url(../assets/pictures/people/pers7.jpeg);
+    background-image: url(./assets/pictures/people/pers7.jpeg);
 }
 .eightc
 {
-    background-image: url(../assets/pictures/people/pers8.jpeg);
+    background-image: url(./assets/pictures/people/pers8.jpeg);
 }
 .ninec
 {
-    background-image: url(../assets/pictures/people/pers9.jpeg);
+    background-image: url(./assets/pictures/people/pers9.jpeg);
 }
 
 .line1
@@ -312,42 +312,42 @@ p
 
 .home_icon
 {
-    background-image: url(../assets/pictures/logos/home.png);
+    background-image: url(./assets/pictures/logos/home.png);
 }
 
 .shorts_icon
 {
-    background-image: url(../assets/pictures/logos/shorts.png);
+    background-image: url(./assets/pictures/logos/shorts.png);
 }
 
 .abo_icon
 {
-    background-image: url(../assets/pictures/logos/subscriptions.png);
+    background-image: url(./assets/pictures/logos/subscriptions.png);
 }
 .hist_icon
 {
-    background-image: url(../assets/pictures/logos/history.png);
+    background-image: url(./assets/pictures/logos/history.png);
 }
 
 .playl_icon
 {
-    background-image: url(../assets/pictures/logos/playlist.png);
+    background-image: url(./assets/pictures/logos/playlist.png);
 }
 .my_vid_icon
 {
-    background-image: url(../assets/pictures/logos/my_videos.png);
+    background-image: url(./assets/pictures/logos/my_videos.png);
 }
 .vos_cours_icon
 {
-    background-image: url(../assets/pictures/logos/my_lessons.png);
+    background-image: url(./assets/pictures/logos/my_lessons.png);
 }
 .to_watch_later_icon
 {
-    background-image: url(../assets/pictures/logos/watch_later.png);
+    background-image: url(./assets/pictures/logos/watch_later.png);
 }
 .like_icon
 {
-    background-image: url(../assets/pictures/logos/liked_vids.png);
+    background-image: url(./assets/pictures/logos/liked_vids.png);
 }
 
 
