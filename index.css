@@ -1,0 +1,189 @@
+body
+{
+    background-color: black;
+    margin: 0%;
+    padding:0%;
+    box-sizing: border-box;
+}
+
+.rect
+{
+    height: 3px;
+    width: 20px;
+    background-color: rgba(255, 255, 255, 0.332);
+   
+}
+
+.divmenu
+{
+  display: flex;
+  gap: 5px;
+    flex-direction: column;
+    width: fit-content;
+}
+
+.cercle
+{
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    background-color: rgba(128, 128, 128, 0.275);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.divcercle
+{
+    display: flex;
+    gap: 10px;
+}
+
+
+
+
+.divmom1
+{ 
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+    padding: 1%;
+}
+
+hr
+{
+    height: 15px;
+    border: 0cm;    
+}
+
+.videos
+{
+    gap: 5px;
+
+}
+
+.picture
+{
+    height: 200px;
+    width: 380px;
+    background-color: rgba(128, 128, 128, 0.19);
+    border-radius: 5%;
+    margin-bottom: 4px;
+    margin-top: 4px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.one
+{
+    background-image: url(./assets/pictures/vids/pic1.jpeg);
+}
+.two
+{
+    background-image: url(./assets/pictures/vids/pic2.jpeg);
+}
+.three
+{
+    background-image: url(./assets/pictures/vids/pic3.jpeg);
+}
+.four
+{
+    background-image: url(./assets/pictures/vids/pic4.jpeg);
+}
+.five
+{
+    background-image: url(./assets/pictures/vids/pic6.jpeg);
+}
+.six
+{
+    background-image: url(./assets/pictures/vids/pic6.jpeg);
+}
+.seven
+{
+    background-image: url(./assets/pictures/vids/pic7.jpeg);
+}
+.eight
+{
+    background-image: url(./assets/pictures/vids/pic8.jpeg);
+}
+.nine
+{
+    background-image: url(./assets/pictures/vids/pic9.jpeg);
+}
+
+.title_and_pic
+{
+    display: flex;
+    gap: 10px;
+
+}
+
+.onec
+{
+    background-image: url(./assets/pictures/people/pers1.jpeg);
+}
+.twoc
+{
+    background-image: url(./assets/pictures/people/pers2.jpeg);
+}
+.threec
+{
+    background-image: url(./assets/pictures/people/pers3.jpeg);
+}
+.fourc
+{
+    background-image: url(./assets/pictures/people/pers4.jpeg);
+}
+.fivec
+{
+    background-image: url(./assets/pictures/people/pers5.jpeg);
+}
+.sixc
+{
+    background-image: url(./assets/pictures/people/pers6.jpeg);
+}
+.sevenc
+{
+    background-image: url(./assets/pictures/people/pers7.jpeg);
+}
+.eightc
+{
+    background-image: url(./assets/pictures/people/pers8.jpeg);
+}
+.ninec
+{
+    background-image: url(./assets/pictures/people/pers9.jpeg);
+}
+
+.line1
+{
+    height: 11px;
+    width:300px ;
+    background-color: rgba(128, 128, 128, 0.286);
+    margin-bottom: 1px;
+}
+
+.line2
+{
+    height: 11px;
+    width:250px ;
+    background-color: rgba(128, 128, 128, 0.286);
+}
+
+.title
+{
+    gap: 6px;
+}
+
+
+.three_vids
+{
+    display: flex;
+    justify-content: end;
+    gap: 50px;
+    padding-right: 1%;
+    padding-bottom: 2%;
+}
